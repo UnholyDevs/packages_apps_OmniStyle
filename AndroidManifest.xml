@@ -89,8 +89,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         </activity>
 
         <activity
-            android:name=".naturerandom"
-            android:label="Nature (random)" >
+            android:name=".aaronunholy"
+            android:label="AaronW" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 

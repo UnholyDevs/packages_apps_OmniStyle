@@ -20,19 +20,11 @@ entry can only be only one of hour or day/month type
 day_header entries have a higher priority then hour entries -->
 
 <daylight_headers>
-    <random_header image="nature01" />
-    <random_header image="nature02" />
-    <random_header image="nature03" />
-    <random_header image="nature04" />
-    <random_header image="nature05" />
-    <random_header image="nature06" />
-    <random_header image="nature07" />
-    <random_header image="nature08" />
-    <random_header image="nature09" />
-    <random_header image="nature10" />
-    <random_header image="nature11" />
-    <random_header image="nature12" />
-    <random_header image="nature13" />
-    <random_header image="nature14" />
-    <random_header image="nature15" />
+    <meta_data creator="Aaron Wieneke" />
+    <random_header image="aaron1unholy_afternoon" />
+    <random_header image="aaron1unholy_morning" />
+    <random_header image="aaron1unholy_night" />
+    <random_header image="aaron1unholy_noon" />
+    <random_header image="aaron1unholy_sunrise" />
+    <random_header image="aaron1unholy_sunset" />
 </daylight_headers>
